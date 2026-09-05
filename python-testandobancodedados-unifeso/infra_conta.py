@@ -169,5 +169,10 @@ def menu():
                 print("Opção inválida. Tente novamente.")
         except Exception as e:
             print(f"Erro: {e}")
+            
+#Executar
+menu()
+
+
         
         
